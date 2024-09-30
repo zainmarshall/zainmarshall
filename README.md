@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain Marshall</h1>
-<h3 align="center">A high school stupid at TJHSST</h3>
+<h3 align="center">A high school student at TJHSST</h3>
 
 
 
