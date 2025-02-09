@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zain Marshall</h1>
 <h3 align="center">A high school student at TJHSST</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">View my totally amazing profiles</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/moxiethefoxie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="moxiethefoxie" height="30" width="40" /></a>
 </p>
