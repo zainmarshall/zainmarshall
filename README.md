@@ -12,12 +12,18 @@
 ## Weekly Coding!!
 <!--START_SECTION:waka-->
 
-```txt
-Python               3 hrs 34 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.89 %
-Svelte               3 hrs 5 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
-Markdown             1 hr 38 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-TypeScript           1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-YAML                 1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+```rust
+From: 12 September 2025 - To: 30 September 2025
+
+Total Time: 22 hrs 37 mins
+
+C++                  5 hrs 56 mins   >>>>>>-------------------   25.16 %
+Python               4 hrs 28 mins   >>>>>--------------------   18.96 %
+Svelte               4 hrs           >>>>---------------------   16.97 %
+Markdown             1 hr 38 mins    >>-----------------------   06.95 %
+Java                 1 hr 32 mins    >>-----------------------   06.52 %
+TypeScript           1 hr 13 mins    >------------------------   05.20 %
+Other                59 mins         >------------------------   04.23 %
 ```
 
 <!--END_SECTION:waka-->
