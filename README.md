@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Zain Marshall</h1>
-- A high school student at TJHSST
-- A computer security and CTF enthusiast 
-- A competitive programmer
-- 
+
+* A high school student at TJHSST
+* A computer security and CTF enthusiast 
+* A competitive programmer
+ 
 
 
 <h3 align="left">View my totally amazing profiles</h3>
