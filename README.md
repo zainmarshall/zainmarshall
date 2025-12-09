@@ -20,18 +20,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 12 September 2025 - To: 06 December 2025
+From: 12 September 2025 - To: 07 December 2025
 
-Total Time: 79 hrs 58 mins
+Total Time: 80 hrs 36 mins
 
-Python                    25 hrs 27 mins  >>>>>>>>-----------------   30.84 %
-C++                       15 hrs 42 mins  >>>>>--------------------   19.02 %
-Svelte                    7 hrs 36 mins   >>-----------------------   09.23 %
-Java                      6 hrs 10 mins   >>-----------------------   07.48 %
-TypeScript                5 hrs 10 mins   >>-----------------------   06.26 %
-Markdown                  4 hrs 13 mins   >------------------------   05.11 %
-Text                      2 hrs 51 mins   >------------------------   03.46 %
-Other                     2 hrs 34 mins   >------------------------   03.13 %
+Python                    25 hrs 31 mins  >>>>>>>>-----------------   30.68 %
+C++                       15 hrs 42 mins  >>>>>--------------------   18.88 %
+Svelte                    7 hrs 36 mins   >>-----------------------   09.16 %
+Java                      6 hrs 10 mins   >>-----------------------   07.42 %
+TypeScript                5 hrs 40 mins   >>-----------------------   06.83 %
+Markdown                  4 hrs 13 mins   >------------------------   05.08 %
+Text                      2 hrs 51 mins   >------------------------   03.43 %
+Other                     2 hrs 34 mins   >------------------------   03.10 %
 ```
 
 <!--END_SECTION:waka-->
