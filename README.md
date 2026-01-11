@@ -18,7 +18,7 @@
 
 <h3 align="left">Time Coding: </h3>
 <!--START_SECTION:waka-->
-
+https://github-readme-stats.hackclub.dev/api/wakatime?username=24357&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
 ```rust
 From: 12 September 2025 - To: 09 January 2026
 
