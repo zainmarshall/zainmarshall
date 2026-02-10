@@ -15,23 +15,5 @@
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-https://github-readme-stats.hackclub.dev/api/wakatime?username=24357&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=tokyonight
-<h3 align="left">Time Coding: </h3>
-<!--START_SECTION:waka-->
 
-```rust
-From: 12 September 2025 - To: 08 February 2026
-
-Total Time: 98 hrs 56 mins
-
-Python                    30 hrs 6 mins   >>>>>>>------------------   29.57 %
-C++                       23 hrs 10 mins  >>>>>>-------------------   22.77 %
-Svelte                    10 hrs 40 mins  >>>----------------------   10.49 %
-TypeScript                6 hrs 39 mins   >>-----------------------   06.55 %
-Java                      6 hrs 27 mins   >>-----------------------   06.34 %
-Markdown                  4 hrs 13 mins   >------------------------   04.15 %
-Text                      3 hrs 1 min     >------------------------   02.98 %
-Other                     2 hrs 50 mins   >------------------------   02.79 %
-```
-
-<!--END_SECTION:waka-->
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=24357&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=tokyonight)
