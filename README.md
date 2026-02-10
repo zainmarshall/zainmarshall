@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zain Marshall</h1>
 
 * A high school student at TJHSST
-* A computer security and CTF enthusiast 
+* A computer security and CTF enthusiast - [CTF Time](https://ctftime.org/profile/zen10)
 * A competitive programmer
  
 
