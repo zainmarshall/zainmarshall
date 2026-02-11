@@ -20,4 +20,5 @@
 <h3 align="left">Time Coding: </h3>
 
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=24357&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=tokyonight)
+
 Idk why but my extension reported dart as text for a while, so text is just dart
